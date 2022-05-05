@@ -4,7 +4,9 @@
   "author": "Pat Riehecky",
   "summary": "Functions to run CRC32 against a string",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/jcpunk/puppet-crc32",
+  "project_page": "https://github.com/jcpunk/puppet-crc32",
+  "issues_url": "https://github.com/jcpunk/puppet-crc32/issues",
   "dependencies": [
 
   ],
